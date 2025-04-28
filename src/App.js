@@ -34,7 +34,7 @@ function App() {
             </div>
             <div className="intro-text">
               <h1>Hello, I am</h1>
-              <h2 className="name">Shekhar Rana</h2>
+              <h2 className="name"> Sunny </h2>
               <p className="role">Full Stack Developer</p>
               <p className="description">
                 Full Stack Developer passionate about building scalable, secure, and efficient web applications. 
@@ -45,19 +45,19 @@ function App() {
             <div className="contact-info">
               <a href="mailto:shekharrana7075@gmail.com" className="contact-link">
                 <i className="fas fa-envelope"></i>
-                shekharrana7075@gmail.com
+                sunny1972003@gmail.com
               </a>
               <a href="tel:+918210390248" className="contact-link">
                 <i className="fas fa-phone"></i>
-                +91 8210390248
+                +91 8295994946
               </a>
             </div>
             <div className="social-links">
-              <a href="https://www.linkedin.com/in/shekhar-rana-1324s/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/sunny-saini-247247254/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin"></i>
                 LinkedIn
               </a>
-              <a href="https://github.com/shekharrana007" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/Sunny5130" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github"></i>
                 GitHub
               </a>
@@ -187,14 +187,14 @@ function App() {
                   <h3>Software Testing | NPTEL</h3>
                   <p className="cert-details">
                     <span className="cert-instructor">IIT Bangalore</span>
-                    <span className="cert-score">Score: 58%</span>
+                    <span className="cert-score">Score: 60%</span>
                   </p>
                   <p className="cert-date">Jul-Oct 2024</p>
                 </a>
               </div>
               <div className="certificate-card">
                 <a 
-                  href="https://www.coursera.org/account/accomplishments/verify/PNGMGNTUHM8T" 
+                  href="https://www.coursera.org/account/accomplishments/verify/8YRFK3NQJ479" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="certificate-link"
@@ -202,7 +202,7 @@ function App() {
                   <div className="certificate-image-container">
                     <img src={serverCert} alt="Server-side JavaScript Certificate" className="certificate-image" />
                   </div>
-                  <h3>Server-side JavaScript with Node.js | NIIT</h3>
+                  <h3>Algorithms on String | NIIT</h3>
                   <p className="cert-details">
                     <span className="cert-instructor">NIIT & Coursera</span>
                     <span className="cert-date">Mar 20, 2024</span>
@@ -211,7 +211,7 @@ function App() {
               </div>
               <div className="certificate-card">
                 <a 
-                  href="https://www.udemy.com/certificate/UC-48e0c614-9c85-482e-8393-03b7693e63d1/" 
+                  href="ude.my/UC-642205a3-820f-4b9e-b48f-dd3033f38bb5" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="certificate-link"
@@ -244,27 +244,27 @@ function App() {
                 <p className="duration">Aug '22 - Present</p>
                 <p>Bachelor of Technology</p>
                 <p>Computer Science and Engineering</p>
-                <p className="grade">CGPA: 7.44</p>
+                <p className="grade">CGPA: 7.95</p>
               </div>
               <div className="education-card">
                 <div className="education-image-container">
                   <img src={davImg} alt="D.A.V School" className="education-image" />
                 </div>
-                <h3>D.A.V School</h3>
-                <p className="location">Manali, Kangra (H.P.)</p>
+                <h3>KLP Sr Sec School</h3>
+                <p className="location">Narnaul, Mahendergarh (Haryana)</p>
                 <p className="duration">Mar '21 - May '22</p>
                 <p>Intermediate</p>
-                <p className="grade">PCM: Percentage: 71%</p>
+                <p className="grade">PCM: Percentage: 95%</p>
               </div>
               <div className="education-card">
                 <div className="education-image-container">
                   <img src={davImg} alt="D.A.V School" className="education-image" />
                 </div>
-                <h3>D.A.V School</h3>
-                <p className="location">Manali, Kangra (H.P.)</p>
+                <h3>KLP Sr Sec School</h3>
+                <p className="location">Narnaul, Mahendergarh (Haryana)</p>
                 <p className="duration">Mar '19 - May '20</p>
                 <p>Matriculation</p>
-                <p className="grade">Percentage: 85.6%</p>
+                <p className="grade">Percentage: 84.6%</p>
               </div>
             </div>
           </div>

@@ -6,7 +6,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="nav-brand">Shekhar Rana</div>
+      <div className="nav-brand">Sunny</div>
       <div className={`nav-menu ${isOpen ? 'active' : ''}`}>
         <a href="#home">Home</a>
         <a href="#skills">Skills</a>
