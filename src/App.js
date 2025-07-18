@@ -28,7 +28,7 @@ function App() {
             <div className="profile-container">
               <img 
                 src={profilePic}
-                alt="Shekhar Rana" 
+                alt="Sunny Saini" 
                 className="profile-image"
               />
             </div>
@@ -43,7 +43,7 @@ function App() {
               </p>
             </div>
             <div className="contact-info">
-              <a href="mailto:shekharrana7075@gmail.com" className="contact-link">
+              <a href="mailto:sUNNY1972003@gmail.com" className="contact-link">
                 <i className="fas fa-envelope"></i>
                 sunny1972003@gmail.com
               </a>
